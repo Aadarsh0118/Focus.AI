@@ -1,0 +1,6 @@
+{
+  "name": "AI Productivity Companion",
+  "description": "A proactive AI study companion with personalized task recommendations, dynamic flashcards, a Pomodoro timer, and a notepad with AI synthesis tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
